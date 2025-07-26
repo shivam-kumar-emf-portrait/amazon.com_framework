@@ -1,2 +1,2 @@
 # amazon.com_framework
-only html and javascript are used
+only html and css are used
